@@ -1,0 +1,160 @@
+
+
+
+         ╦╬╬╬╬╬╦
+        ╬╬╬╬╬╬╬╬╬                    ▄▄▄▄        ▄▄▄
+       ╬╬╬╬╬╬╬╬╬╬╬                  ▐▓▓▓▓▌       ▓▓▓
+      ╬╬╬╬╬╬╬╬╬╬╬╬╬                ▐▓▓▓▓▓▓▌      ▓▓▓     ▄▄▄▄▄▄       ▄▄▄▄▄▄
+     ╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬              ▐▓▓▓  ▓▓▓▌     ▓▓▓   ▄▓▓▀▀▀▀▓▓▄   ▐▓▓▓▓▓▓▓▓▌
+    ╬╬╬╬╬╬╬╜ ╙╬╬╬╬╬╬╬            ▐▓▓▓▌  ▐▓▓▓▌    ▓▓▓  ▐▓▓▓▄▄▄▄▓▓▓▌ ▐▓▓▓    ▓▓▓▌
+   ╬╬╬╬╬╬╣     ╠╬╬╬╬╬╬           ▓▓▓▓▓▓▓▓▓▓▓▓    ▓▓▓  ▐▓▓▀▀▀▀▀▀▀▀▘ ▐▓▓▓    ▓▓▓▌
+  ╬╬╬╬╬╬╣       ╠╬╬╬╬╬╬         ▓▓▓▓▌    ▐▓▓▓▓   ▓▓▓   ▀▓▓▄▄▄▄▓▓▀   ▐▓▓▓▓▓▓▓▓▌
+ ╬╬╬╬╬╬╣         ╠╬╬╬╬╬╬       ▝▀▀▀▀      ▀▀▀▀▘  ▀▀▀     ▀▀▀▀▀▀       ▀▀▀▀▀▀
+╚╬╬╬╬╬╩           ╩╬╬╬╬╩
+
+
+👋 Welcome to Aleo! We thank you for running a node and supporting privacy.
+
+⚠️  Attention - Sampling a *one-time* account for this instance, please save this securely:
+
+  Private Key  APrivateKey1zkp8CZNn3yeCseEtxuVPbDCwSyhGW6yZKUYKfgXmcpoGPWH
+     View Key  AViewKey1mSnpFFC8Mj4fXbK5YiWgZ3mjiV8CxA79bYNa8ymUpTrw
+      Address  aleo1rhgdu77hgyqd3xjj8ucu3jj9r2krwz6mnzyd80gncr5fxcwlh5rsvzp9px
+
+🪪 Your Aleo address is aleo1rhgdu77hgyqd3xjj8ucu3jj9r2krwz6mnzyd80gncr5fxcwlh5rsvzp9px.
+
+🧭 Starting a beacon node on Aleo Testnet 3 Phase 3 at 0.0.0.0:4130.
+
+🌐 Starting the REST server at 0.0.0.0:3030.
+
+🔑 Your one-time JWT token is eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGVvMXJoZ2R1NzdoZ3lxZDN4amo4dWN1M2pqOXIya3J3ejZtbnp5ZDgwZ25jcjVmeGN3bGg1cnN2enA5cHgiLCJpYXQiOjE2ODkxNDI2MDQsImV4cCI6MjAwNDUwMjYwNH0.qXUTXXnEkZLlAddigxLGqaseBDYzKjLsTiFA9zQJ--o
+
+2023-07-12T06:16:45.822581Z DEBUG No connected peers
+2023-07-12T06:16:45.823664Z TRACE Waiting for 13 seconds before producing a block...
+2023-07-12T06:16:51.512492Z DEBUG ✉️  Added transaction 'at19d8lrwumv2e966c5lr4q0hyyvj54g8mfw4paykpw87kd2uu4qszq0x35v7' to the memory pool
+2023-07-12T06:16:51.566375Z TRACE Removed transaction 'at19d8lrwumv2e966c5lr4q0hyyvj54g8mfw4paykpw87kd2uu4qszq0x35v7' from the memory pool
+2023-07-12T06:16:51.566429Z  INFO Advanced to block 1
+2023-07-12T06:16:51.566955Z  INFO Block 1: {
+  "previous_state_root": "6359957438660447127243500639702078238878089644041030627207547924329520966556field",
+  "transactions_root": "5358040401327965163499820758112055575796805885709503156659040733809658832267field",
+  "finalize_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "ratifications_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "coinbase_accumulator_point": "0field",
+  "metadata": {
+    "network": 3,
+    "round": 1,
+    "height": 1,
+    "total_supply_in_microcredits": 1500000000000001,
+    "cumulative_weight": 0,
+    "cumulative_proof_target": 0,
+    "coinbase_target": 4095,
+    "proof_target": 32,
+    "last_coinbase_target": 4095,
+    "last_coinbase_timestamp": 1680307200,
+    "timestamp": 1689142611
+  }
+}
+2023-07-12T06:16:51.567485Z TRACE Waiting for 10 seconds before producing a block...
+2023-07-12T06:17:00.824514Z DEBUG No connected peers
+2023-07-12T06:17:01.569527Z TRACE Check for coinbase - deadline has elapsed
+2023-07-12T06:17:07.480466Z DEBUG ✉️  Added transaction 'at1kka5f7072872vqz2rg52rsjgtenju55p5nauuyna20wvq89veygswfwy4u' to the memory pool
+2023-07-12T06:17:07.531791Z TRACE Removed transaction 'at1kka5f7072872vqz2rg52rsjgtenju55p5nauuyna20wvq89veygswfwy4u' from the memory pool
+2023-07-12T06:17:07.531807Z  INFO Advanced to block 2
+2023-07-12T06:17:07.532256Z  INFO Block 2: {
+  "previous_state_root": "8357965459228751046951191625234924179960946866154392868022816539060295452978field",
+  "transactions_root": "6418665339191607228839573041673524677381566495821051383160528676424613591220field",
+  "finalize_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "ratifications_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "coinbase_accumulator_point": "0field",
+  "metadata": {
+    "network": 3,
+    "round": 2,
+    "height": 2,
+    "total_supply_in_microcredits": 1500000000000002,
+    "cumulative_weight": 0,
+    "cumulative_proof_target": 0,
+    "coinbase_target": 4095,
+    "proof_target": 32,
+    "last_coinbase_target": 4095,
+    "last_coinbase_timestamp": 1680307200,
+    "timestamp": 1689142627
+  }
+}
+2023-07-12T06:17:07.532560Z TRACE Waiting for 10 seconds before producing a block...
+2023-07-12T06:17:15.826483Z DEBUG No connected peers
+2023-07-12T06:17:17.534332Z TRACE Check for coinbase - deadline has elapsed
+2023-07-12T06:17:23.824121Z DEBUG ✉️  Added transaction 'at1qwus39j2pfh7mpwstc52ntdd7ephaqqfn3qvk3rshpwlgl6p9s9skhh7x3' to the memory pool
+2023-07-12T06:17:23.877603Z TRACE Removed transaction 'at1qwus39j2pfh7mpwstc52ntdd7ephaqqfn3qvk3rshpwlgl6p9s9skhh7x3' from the memory pool
+2023-07-12T06:17:23.877623Z  INFO Advanced to block 3
+2023-07-12T06:17:23.878097Z  INFO Block 3: {
+  "previous_state_root": "4600770799925719187668207084579887648161922479474436815425203256258919444305field",
+  "transactions_root": "5022459123982199732627872567006582309770279653221512229023611813061136011389field",
+  "finalize_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "ratifications_root": "2347499756727239097527357730627929185508370696360031054030113664724940109165field",
+  "coinbase_accumulator_point": "0field",
+  "metadata": {
+    "network": 3,
+    "round": 3,
+    "height": 3,
+    "total_supply_in_microcredits": 1500000000000003,
+    "cumulative_weight": 0,
+    "cumulative_proof_target": 0,
+    "coinbase_target": 4095,
+    "proof_target": 32,
+    "last_coinbase_target": 4095,
+    "last_coinbase_timestamp": 1680307200,
+    "timestamp": 1689142643
+  }
+}
+2023-07-12T06:17:23.878563Z TRACE Waiting for 9 seconds before producing a block...
+2023-07-12T06:17:30.827928Z DEBUG No connected peers
+2023-07-12T06:17:32.880196Z TRACE Check for coinbase - deadline has elapsed
+2023-07-12T06:17:38.253489Z DEBUG ✉️  Added transaction 'at1vupynxxhx5adptuxlh6xpdcv2c23klyj9ky2cevmzy34rzu93vgsdtykw2' to the memory pool
+2023-07-12T06:17:38.304382Z TRACE Clearing the memory pool...
+2023-07-12T06:17:38.304399Z TRACE Cleared the memory pool
+2023-07-12T06:17:39.305802Z ERROR Failed to propose the next block: Failed to advance to the next block: IO error: No space left on device: While appending to file: /root/snarkOS/.ledger-3-0/000004.log: No space left on device
+2023-07-12T06:17:39.305871Z TRACE Waiting for 9 seconds before producing a block...
+2023-07-12T06:17:45.109503Z DEBUG ✉️  Added transaction 'at1kamz2vurza6cr0ee3az0fmy3ecvnacqjguzsjzcdlt5lscup0grqvtfd42' to the memory pool
+2023-07-12T06:17:45.136949Z TRACE Clearing the memory pool...
+2023-07-12T06:17:45.136982Z TRACE Cleared the memory pool
+2023-07-12T06:17:45.829046Z DEBUG No connected peers
+2023-07-12T06:17:46.138509Z ERROR Failed to propose the next block: Proposed an invalid block: Block height '4' already exists in the ledger
+2023-07-12T06:17:46.138522Z TRACE Waiting for 9 seconds before producing a block...
+2023-07-12T06:17:51.903656Z DEBUG ✉️  Added transaction 'at1fdxdv7l3x46l9n5rp73cr93wq7908n55hk5j97kd8vy92f9cesqq938q0v' to the memory pool
+2023-07-12T06:17:51.929155Z TRACE Clearing the memory pool...
+2023-07-12T06:17:51.929172Z TRACE Cleared the memory pool
+2023-07-12T06:17:52.931503Z ERROR Failed to propose the next block: Proposed an invalid block: Block height '4' already exists in the ledger
+2023-07-12T06:17:52.931560Z TRACE Waiting for 9 seconds before producing a block...
+2023-07-12T06:17:58.379905Z DEBUG ✉️  Added transaction 'at133ja
+
+
+         ╦╬╬╬╬╬╦
+        ╬╬╬╬╬╬╬╬╬                    ▄▄▄▄        ▄▄▄
+       ╬╬╬╬╬╬╬╬╬╬╬                  ▐▓▓▓▓▌       ▓▓▓
+      ╬╬╬╬╬╬╬╬╬╬╬╬╬                ▐▓▓▓▓▓▓▌      ▓▓▓     ▄▄▄▄▄▄       ▄▄▄▄▄▄
+     ╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬              ▐▓▓▓  ▓▓▓▌     ▓▓▓   ▄▓▓▀▀▀▀▓▓▄   ▐▓▓▓▓▓▓▓▓▌
+    ╬╬╬╬╬╬╬╜ ╙╬╬╬╬╬╬╬            ▐▓▓▓▌  ▐▓▓▓▌    ▓▓▓  ▐▓▓▓▄▄▄▄▓▓▓▌ ▐▓▓▓    ▓▓▓▌
+   ╬╬╬╬╬╬╣     ╠╬╬╬╬╬╬           ▓▓▓▓▓▓▓▓▓▓▓▓    ▓▓▓  ▐▓▓▀▀▀▀▀▀▀▀▘ ▐▓▓▓    ▓▓▓▌
+  ╬╬╬╬╬╬╣       ╠╬╬╬╬╬╬         ▓▓▓▓▌    ▐▓▓▓▓   ▓▓▓   ▀▓▓▄▄▄▄▓▓▀   ▐▓▓▓▓▓▓▓▓▌
+ ╬╬╬╬╬╬╣         ╠╬╬╬╬╬╬       ▝▀▀▀▀      ▀▀▀▀▘  ▀▀▀     ▀▀▀▀▀▀       ▀▀▀▀▀▀
+╚╬╬╬╬╬╩           ╩╬╬╬╬╩
+
+
+👋 Welcome to Aleo! We thank you for running a node and supporting privacy.
+
+⚠️  Attention - Sampling a *one-time* account for this instance, please save this securely:
+
+  Private Key  APrivateKey1zkp8CZNn3yeCseEtxuVPbDCwSyhGW6yZKUYKfgXmcpoGPWH
+     View Key  AViewKey1mSnpFFC8Mj4fXbK5YiWgZ3mjiV8CxA79bYNa8ymUpTrw
+      Address  aleo1rhgdu77hgyqd3xjj8ucu3jj9r2krwz6mnzyd80gncr5fxcwlh5rsvzp9px
+
+🪪 Your Aleo address is aleo1rhgdu77hgyqd3xjj8ucu3jj9r2krwz6mnzyd80gncr5fxcwlh5rsvzp9px.
+
+🧭 Starting a beacon node on Aleo Testnet 3 Phase 3 at 0.0.0.0:4130.
+
+🌐 Starting the REST server at 0.0.0.0:3030.
+
+🔑 Your one-time JWT token is eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhbGVvMXJoZ2R1NzdoZ3lxZDN4amo4dWN1M2pqOXIya3J3ejZtbnp5ZDgwZ25jcjVmeGN3bGg1cnN2enA5cHgiLCJpYXQiOjE2ODkxNDI4MDMsImV4cCI6MjAwNDUwMjgwM30.6kHSYJYzty9g1X1MeiRoSuYguQiDF2nizcBiBepDvIk
+
+thread 'main' panicked at 'Failed to parse the node: Failed to load block 4 from the ledger', cli/src/commands/start.rs:106:67
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
